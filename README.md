@@ -1,1 +1,1 @@
-# SOLID Principles Notes With Practical Examples
+# All Java Concepts 
